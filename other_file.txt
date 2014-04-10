@@ -19,3 +19,4 @@ qaa
 sdk
 training
 web-automation
+OZGE SALAKO
