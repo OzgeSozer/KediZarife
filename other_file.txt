@@ -1,5 +1,22 @@
-berreg.txt
-berreg2.txt
-berreg_diff.txt
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Public
+VirtualBox VMs
+android-consumer.apk
+android-driver-london.apk
+app-automation
+app-automation 2
+app-automation.zip
+customer-app
 other_file.txt
-qaa_training
+qa
+qaa
+sdk
+training
+web-automation
+OZGE SALAKO
