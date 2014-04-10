@@ -14,9 +14,7 @@ app-automation 2
 app-automation.zip
 customer-app
 other_file.txt
-qa
-qaa
-sdk
+
 training
 web-automation
 OZGE SALAKO
